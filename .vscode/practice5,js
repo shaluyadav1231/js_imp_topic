@@ -1,0 +1,5 @@
+//question 1
+let arr=[1,2,3,4,5]
+let arr2=prompt("enter the array")
+console.log(arr.push(arr2));
+
